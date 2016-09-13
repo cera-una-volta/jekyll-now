@@ -7,4 +7,4 @@ title: Il gigante più elegante
 
 Il gigante Adalberto è stanco di essere il più trasandato della città e decide di rifarsi un guardaroba elegante. Acquista così il meglio che c'è sulla piazza. Ma Adalberto ha il cuore grande ed è molto generoso: si spoglierebbe di tutto pur di aiutare gli altri e così finisce in mutande. Età di lettura: da 3 anni.
 
-[Acquista su Amazon](https://www.amazon.it/gigante-pi%C3%B9-elegante-Julia-Donaldson/dp/8867143352)
+[Acquista "Il gigante più elegante" su Amazon](https://www.amazon.it/gigante-pi%C3%B9-elegante-Julia-Donaldson/dp/8867143352)
