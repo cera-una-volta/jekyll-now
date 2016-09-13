@@ -1,10 +1,8 @@
 ---
 layout: post
-title: You're up and running!
+title: Il ciuccio di Nina
 ---
 
-Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GY0f9VaiAtw" frameborder="0" allowfullscreen></iframe>
 
-![_config.yml]({{ site.baseurl }}/images/config.png)
-
-The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
+Nina non vuole mai separarsi dal suo ciuccio. Pensa che se lo terrà anche quando sarà grande e si sposerà, andrà in piscina o a lavorare. Ma un bel giorno, attraversando il bosco, Nina incontra un lupo cattivo, affamato e puzzolente, che ringhia e strepita e vorrebbe mangiarsela in un sol boccone. Per calmarlo pensa bene di dargli il suo adorato ciuccio. E in men che non si dica, il lupo si trasforma in una bestiola mansueta e coccolona. Nina, soddisfatta, torna dalla sua mamma: il suo ciuccio è in buone mani, c'è qualcuno che ne ha davvero più bisogno di lei... Età di lettura: da 2 anni.
